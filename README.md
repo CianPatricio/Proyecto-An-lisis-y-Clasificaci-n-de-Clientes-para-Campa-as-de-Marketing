@@ -65,14 +65,3 @@ jupyter notebook "Proyecto_Análisis_y_Clasificación_de_Clientes_para_Campañas
 ## 🛠️ Tecnologías
 
 Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · SciPy · Jupyter Notebook
-
-## 🔭 Próximos pasos
-
-- Justificar el número de clusters con el **método del codo** y el **coeficiente de silueta**, en lugar de fijarlo en 3.
-- Incorporar la variable `Categoría de Producto Favorito` (por ejemplo con codificación one-hot) al análisis.
-- Comparar la partición de K-Means con la del clustering jerárquico.
-- Medir el impacto real de cada estrategia con pruebas A/B.
-
-## 👤 Autor
-
-**Patricio Ruben Cian** · Analista Universitario en Sistemas de Computación · [LinkedIn](https://www.linkedin.com/in/<tu-perfil>) · [GitHub](https://github.com/<tu-usuario>)
